@@ -4,3 +4,10 @@ Hide.me is a OpenCV and Tensorflow pipeline for image anonymization. Given the i
 
 Hide.me works through various levels of anonymization including blurring of identifying features like faces and tattoos or art style transfer to make it difficult for facial recognition technology to track personal information
 
+![Image of original photo](https://github.com/xinyizou/hide.me/blob/master/bp1.jpg)
+
+![Anonymization art transfer](https://github.com/xinyizou/hide.me/blob/master/download.png)
+![Face blurring](https://github.com/xinyizou/hide.me/blob/master/download%20(1).png)
+
+
+See Hide.me in action: https://colab.research.google.com/drive/15EUf718TBe8cFlOE38A1Kl8zR5gj2BiH?usp=sharing
